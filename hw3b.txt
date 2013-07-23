@@ -1,18 +1,1 @@
-{
-    ".about": true,
-    ".blank": true,
-    ".faq": true,
-    ".footer": true,
-    ".heading": true,
-    ".logo": true,
-    ".navigation": true,
-    ".order": true,
-    ".pitch": true,
-    ".section1": true,
-    ".section2": true,
-    ".social": true,
-    ".subheading": true,
-    ".thermometer": true,
-    ".video": true,
-    "h1": true
-}
+https://github.com/korydondzila/bitstarter/blob/9e87bb561810d26e0204bfb3b80ab4db6899459d/index.html
